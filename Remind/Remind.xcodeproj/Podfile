@@ -1,0 +1,5 @@
+pod 'KYWheelTabController'
+
+target 'Remind/Remind.xcodeproj' do
+    platform :'ios'
+end
